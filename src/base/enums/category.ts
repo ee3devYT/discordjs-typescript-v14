@@ -1,7 +1,7 @@
 enum Category {
-    Information = "Information",
-    Moderation = "Moderation",
-    Economy = "Economy",
+    Information = 'Information',
+    Moderation = 'Moderation',
+    Economy = 'Economy'
 }
 
-export default Category;
+export default Category
