@@ -1,0 +1,15 @@
+{
+    "colors": {
+        "default": "#5865F2",
+        "success": "#57F287",
+        "error": "#ED4245",
+        "info": "#3BA5E0",
+        "warning": "#FEE75C"
+    },
+    "emojis": {
+        "success": "<:success:1262666464646464646>",
+        "error": "<:error:1262666464646464646>",
+        "info": "<:info:1262666464646464646>",
+        "warning": "<:warning:1262666464646464646>"
+    }
+}
